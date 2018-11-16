@@ -1,2 +1,2 @@
-# -My-first-project
+# My first project
 Создание репозитория с простейшим сайтом из одной  html странички
